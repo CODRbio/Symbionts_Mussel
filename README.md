@@ -25,3 +25,8 @@ Script: Snakemake.py and softwares in the folder scripts
 Comparisons of Genes density around locations of interest
 Script: bilateral_gene_cruise.py
 
+Get representative sequences for each othologs
+Script: get_represetativeOrtholog.py
+
+Align the cds based on the aligned peptide
+Script: get_represetativeOrtholog.py
